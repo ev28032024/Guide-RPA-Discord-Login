@@ -2,7 +2,7 @@
 ---
 **1.** Открываем две вкладки в терминале.
 
-**2.** Запускаем в первой вкладке софты ADS-GoogleSheets (--watch) и во второй вкладке hCaptcha-Challenger
+**2.** Запускаем в первой вкладке софт ADS-GoogleSheets (--watch) и во второй вкладке hCaptcha-Challenger
 
 **3.** Запускаем RPA Discord — Login
 
