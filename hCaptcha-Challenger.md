@@ -78,4 +78,15 @@ SPATIAL_POINT_REASONER_MODEL=gemini-2.5-flash
 
 > https://github.com/ev28032024/Guide-RPA-Discord-Login/blob/main/main.py
 
-3. Отредактировать скрипт *main.py*, необходимо будет указать *URL* и *КЛЮЧ* от API AdsPower в переменных *ADSPOWER_API_URL* и *ADSPOWER_API_KEY*.
+3. Отредактировать скрипт *main.py*, необходимо будет указать *URL* и *КЛЮЧ* от API AdsPower в переменных *ADSPOWER_API_URL* и *ADSPOWER_API_KEY*
+
+---
+
+### Использование
+
+- Для запуска необходимо выполнить команды в каталоге проекта, после чего при наличии hCaptcha на страницах, она будет передана в нейросеть для её прохождения:
+
+```bash
+source .venv/bin/activate
+python3 main.py
+```
