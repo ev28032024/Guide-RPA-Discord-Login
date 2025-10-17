@@ -4,8 +4,8 @@
 # =========================
 # CONFIG
 # =========================
-ADSPOWER_API_URL = "http://127.0.0.1:50326"
-ADSPOWER_API_KEY = "804f0375f51c87c7e03b23ce9e38f196"
+ADSPOWER_API_URL = "URL"
+ADSPOWER_API_KEY = "КЛЮЧ"
 
 # Единственные «таймеры»/лимиты — для AdsPower API и TTL кэша профилей:
 REQUEST_TIMEOUT_SEC = 10          # HTTP таймаут к AdsPower
