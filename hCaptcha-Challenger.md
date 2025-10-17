@@ -65,6 +65,7 @@ playwright install
 ### Конфигурация
 
 1. В корневом каталоге создать файл .env и добавить в него строки
+
 ```bash
 GEMINI_API_KEY=<КЛЮЧ>
 
@@ -73,4 +74,6 @@ IMAGE_CLASSIFIER_MODEL=gemini-2.5-flash
 SPATIAL_POINT_REASONER_MODEL=gemini-2.5-flash
 ```
 
-2. Скачать скрипт для подключения проекта к AdsPower
+2. Скачать или скопировать скрипт для подключения к AdsPower и положить в корневой каталог проекта рядом с остальными файлами:
+
+> https://github.com/ev28032024/Guide-RPA-Discord-Login/blob/main/main.py
